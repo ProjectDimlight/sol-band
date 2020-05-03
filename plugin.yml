@@ -1,0 +1,8 @@
+name: SOL-Band
+main: main.Main
+version: 0.1
+api-verision: 1.14
+commands:
+    band:
+        description: 开启/关闭演奏模式
+        usage: /band <乐器|help|off>
